@@ -46,7 +46,7 @@ education:
       Thesis on _Decentralized rural wastewater treatment in technological feasibility and environmental sustainability_. Supervised by [Prof Stijn Van Hulle](https://research.ugent.be/web/person/stijn-van-hulle-0/en) and [Prof Diederik Rousseau](https://research.ugent.be/web/person/diederik-rousseau-0/en). Presented papers at 2 conferences, Publicated 4 papers as first and/or corresponding author. Working on 2 papers under review.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'https://research.ugent.be/web/person/rui-zhang-2/en'
   - area: MEng Bioscience Engineering
     institution: South China University and Technology
     date_start: 2016-09-01
