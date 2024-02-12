@@ -52,23 +52,23 @@ education:
     date_start: 2016-09-01
     date_end: 2019-06-30
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.5/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Microbial physiology 
+      - Enzymology and enzyme engineering
+      - Bioreactor theory and practice 
   - area: BSc Food Quality and Safety
     institution: Hainan University
     date_start: 2012-09-01
     date_end: 2016-06-30
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.2/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Food Commodity Science
+      - Environmental toxicology
+      - Agricultural biotechnology
 work:
   - position: PhD Candidate
     company_name: Ghent University
@@ -126,26 +126,22 @@ awards:
     date: '2022-09-25'
     awarder: EU
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      Europe project IQUA , supported by The Interreg V “Vlaanderen-Nederland” program. Aims to provide qualitative solutions for decentralized wastewater treatment through innovation. There is the testing of wastewater technologies at a goat farm, a catering business, a carwash, and a local football club. There is a strong focus on the local reuse of treated wastewater and the recovery of raw materials (nutrients) and energy. 
   - title: Water circle 't Hof Bellewaerde
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
     awarder: EU
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+      't Hof Bellewaerde, an old farm, was converted into a small camping site. The property is 3.3ha and is located on an archaeological site of World War I, which is why disturbance of the soil must be limited. Since utilities are excluded for 't Hof Bellewaerde and because the owners also want to keep their ecological footprint as small as possible, the wastewater from the toilets and the communal sanitary block will be purified by a Phytoparking. This is an aerated constructed wetland that is placed under a parking lot. This purified wastewater will subsequently be reused for toilet flushing. This ecological approach ensures that the impact on the site is minimal.
+
   - title: Research and Demonstration of the Key Technology of the Infrastructural Improvement and Functional Extension of the Traditional Village
     url: http://www.xml-data.org/HNLGDXXBSKB/html/2015-0393.htm
     date: '2021-08-01'
     awarder: China
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+      The fishing and aquaculture industry in China has thrived, predominantly situated in rural areas. However, this success has prompted concerns about the impact on rural wastewater treatment in Guangdong, posing a challenge to the region's economic growth. This project addresses this issue by focusing on the design and implementation of innovative facilities or technologies aimed at efficient nitrogen removal and enhanced dissolved oxygen concentration. These improvements are essential for the potential reuse of water, aligning with sustainable wastewater management practices.
+
 
 ---
 
-I am a current Ph.D. candidate at UGent Liwet Lab, actively involved in EU and China projects centered on wastewater treatment, reuse strategies, and environmental sustainability analysis. Love sports and enjoy challenges 🏸🏊🏂. 
+I am a current Ph.D. candidate at UGent LIWET Lab, actively involved in EU and China projects centered on wastewater treatment, reuse strategies, and environmental sustainability analysis. Love sports and enjoy challenges 🏸🏊🏂. 
