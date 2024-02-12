@@ -145,3 +145,4 @@ awards:
 ---
 
 I am a current Ph.D. candidate at UGent LIWET Lab, actively involved in EU and China projects centered on wastewater treatment, reuse strategies, and environmental sustainability analysis. Love sports and enjoy challenges 🏸🏊🏂. 
+Looking for postdoc position regarding wastewater treatment and reuse/ Life cycle assessment/ Nature-based solutions/ Eco-efficiency of rural activities
