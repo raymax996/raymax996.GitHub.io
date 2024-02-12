@@ -43,7 +43,7 @@ education:
     date_start: 2019-09-01
     date_end: 2024-05-31
     summary: |
-      Thesis on _Decentralized rural wastewater treatment in technological feasibility and environmental sustainability_. Supervised by [Prof Stijn Van Hulle](https://research.ugent.be/web/person/stijn-van-hulle-0/en) and [Prof Diederik Rousseau](https://research.ugent.be/web/person/diederik-rousseau-0/en). Presented papers at 2 conferences, Publicated 4 papers as first and corresponding author in Chemical Enginnering, Seperation and purification Technology, and ACS Sustainable Chemistry & Engineering. Working on 2 papers under review.
+      Thesis on _Decentralized rural wastewater treatment in technological feasibility and environmental sustainability_. Supervised by [Prof Stijn Van Hulle](https://research.ugent.be/web/person/stijn-van-hulle-0/en) and [Prof Diederik Rousseau](https://research.ugent.be/web/person/diederik-rousseau-0/en). Presented papers at 2 conferences, Publicated 4 papers as first and/or corresponding author. Working on 2 papers under review.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -86,13 +86,13 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Decentralized wastewater treatment technologies
+      - name: wastewater treatment technologies
         description: ''
         percent: 100
       - name: Microbiological
         description: ''
         percent: 80
-      - name: Life cycle assessment modeling
+      - name: Life cycle assessment
         description: ''
         percent: 80
   - name: Hobbies
