@@ -133,7 +133,7 @@ languages:
   - name: Englise
     percent: 80
   - name: Mandarin
-    percent: 80
+    percent: 100
 
 
 # Awards.
