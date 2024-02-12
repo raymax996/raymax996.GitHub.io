@@ -6,8 +6,8 @@ title: 张睿
 name_pronunciation: Zhang Rui
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Rui
+last_name: Zhang
 
 # Status emoji
 status:
@@ -28,15 +28,13 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:Rui.Zhang@ugent.be'
     label: E-mail Me
-  - icon: brands/x
+  - icon: brands/google-scholar
     url: https://twitter.com/GetResearchDev
-  - icon: brands/github
-    url: https://github.com/gcushen
   - icon: brands/linkedin
     url: https://www.linkedin.com/
-  - icon: brands/instagram
+  - icon: brands/orcid
     url: https://www.instagram.com/
 
 education:
@@ -72,26 +70,15 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: PhD Candidate
+    company_name: Ghent University
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2019-09-01
     date_end: ''
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
