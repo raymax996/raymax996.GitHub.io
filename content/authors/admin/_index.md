@@ -31,11 +31,11 @@ profiles:
     url: 'mailto:Rui.Zhang@ugent.be'
     label: E-mail Me
   - icon: brands/google-scholar
-    url: https://twitter.com/GetResearchDev
+    url: https://scholar.google.com/citations?user=fBxmzEYAAAAJ&hl=en
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/rui-zhang-113b281a7/
   - icon: brands/orcid
-    url: https://www.instagram.com/
+    url: https://orcid.org/0000-0002-1573-3018
 
 education:
   - area: PhD Artificial Intelligence
@@ -155,4 +155,4 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+I am a current Ph.D. candidate at UGent Liwet Lab, actively involved in EU and China projects centered on wastewater treatment, reuse strategies, and environmental sustainability analysis. 
