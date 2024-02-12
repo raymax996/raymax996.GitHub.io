@@ -110,7 +110,7 @@ skills:
         percent: 80
 
 languages:
-  - name: Englise
+  - name: English
     percent: 80
   - name: Mandarin
     percent: 100
@@ -138,7 +138,7 @@ awards:
       - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
   - title: Research and Demonstration of the Key Technology of the Infrastructural Improvement and Functional Extension of the Traditional Village
     url: http://www.xml-data.org/HNLGDXXBSKB/html/2015-0393.htm
-    date: '2023-07-01'
+    date: '2021-08-01'
     awarder: China
     summary: |
       Learned:
