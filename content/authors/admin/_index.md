@@ -11,7 +11,7 @@ last_name: Zhang
 
 # Status emoji
 status:
-  icon: 🌍
+  icon: 🇨🇳
 
 # Is this the primary user of the site?
 superuser: true
@@ -125,14 +125,14 @@ awards:
     url: https://www.i-qua.eu/
     date: '2022-09-25'
     awarder: EU
-    icon: EU
+    icon: European
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
   - title: Water circle 't Hof Bellewaerde
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
     awarder: EU
-    icon: EU
+    icon: European
     summary: |
       Learned:
       - Synthesize your own blockchain solutions
