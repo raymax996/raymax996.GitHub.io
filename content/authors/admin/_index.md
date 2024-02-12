@@ -52,7 +52,7 @@ education:
     date_start: 2016-09-01
     date_end: 2019-06-30
     summary: |
-      GPA: 3.5/4.0
+      GPA: 3.5/4.0,  Publicated 2 papers as first author.
 
       Courses included:
       - Microbial physiology 
