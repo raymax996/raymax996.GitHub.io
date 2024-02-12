@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 吳健雄
+title: 张睿
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Zhang Rui
 
 # Full name (for SEO)
 first_name: Shiung Wu
@@ -11,17 +11,17 @@ last_name: Chien
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🌍
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
+  - name: Ghent University
     url: https://www.example.com/
 
 # Social network links
@@ -130,12 +130,11 @@ skills:
         icon: camera
 
 languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Englise
+    percent: 80
+  - name: Mandarin
+    percent: 80
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
